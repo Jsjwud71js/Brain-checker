@@ -83,7 +83,7 @@
 </div>
 
 <script>
-  const API_KEY = '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'; // Replace with your real key!
+  const API_KEY = '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'; // Replace with your real key!
   const API_URL = 'https://openrouter.ai/api/v1/chat/completions';
 
   const startBtn = document.getElementById('startBtn');
